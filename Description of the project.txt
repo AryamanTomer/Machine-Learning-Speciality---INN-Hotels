@@ -1,0 +1,8 @@
+Inn Hotels - Problem Statement
+
+Description
+
+Context
+
+A significant # of hotel bookings are called off due to cancellations oor no-shows. Some of the reasons for cancellations
+include change of plans, scheduling conflicts, etc. This is often made easier by the option to do so free of charge
